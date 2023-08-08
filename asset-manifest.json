@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3bc48c0d.css",
-    "main.js": "/portfolio/static/js/main.eaefddfe.js",
-    "static/media/portfolio06.png": "/portfolio/static/media/portfolio06.104fce503b515e2b879a.png",
-    "static/media/possibility.png": "/portfolio/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/portfolio07.png": "/portfolio/static/media/portfolio07.2b66408ae39b51649e1a.png",
-    "static/media/portfolio08.png": "/portfolio/static/media/portfolio08.7595980685df3c60c974.png",
-    "static/media/portfolio01.png": "/portfolio/static/media/portfolio01.1c29e5b7c7f26b46c80f.png",
-    "static/media/portfolio03.png": "/portfolio/static/media/portfolio03.b7987dd3310eaf6ab32d.png",
-    "static/media/portfolio05.png": "/portfolio/static/media/portfolio05.0a6a89fd34a91a20ccb1.png",
-    "static/media/portfolio04.png": "/portfolio/static/media/portfolio04.8c0139bcdfc256280a60.png",
-    "static/media/portfolio02.png": "/portfolio/static/media/portfolio02.8541e0105a4853eb52b8.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.5c388ac7c2525d6d1a0e.pdf",
-    "static/media/portfolioimgg.png": "/portfolio/static/media/portfolioimgg.7378c4b17ca7c6e9a5c9.png",
-    "static/media/people.png": "/portfolio/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.png": "/portfolio/static/media/logo.ac2efd6d388a456f2304.png",
-    "index.html": "/portfolio/index.html",
-    "main.3bc48c0d.css.map": "/portfolio/static/css/main.3bc48c0d.css.map",
-    "main.eaefddfe.js.map": "/portfolio/static/js/main.eaefddfe.js.map"
+    "main.css": "/brichandbez/static/css/main.c49b88c0.css",
+    "main.js": "/brichandbez/static/js/main.8555bdee.js",
+    "static/media/possibility.png": "/brichandbez/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog_app_mobdev_1.jpeg": "/brichandbez/static/media/blog_app_mobdev_1.3d0bb94c347e1c4c652f.jpeg",
+    "static/media/blog_app_ux_1.jpeg": "/brichandbez/static/media/blog_app_ux_1.1358791f2ae2b5dbcd5a.jpeg",
+    "static/media/blog_app_mobdevstack_3.jpeg": "/brichandbez/static/media/blog_app_mobdevstack_3.933d5b6cf91411b105c5.jpeg",
+    "static/media/blog_app_dev_2.jpeg": "/brichandbez/static/media/blog_app_dev_2.4d54bba34df5ea9993ef.jpeg",
+    "static/media/blog_app_mobsecurity_1.png": "/brichandbez/static/media/blog_app_mobsecurity_1.31cdebea645796713d76.png",
+    "static/media/people.png": "/brichandbez/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/google.png": "/brichandbez/static/media/google.c8c3ced8fc5abab8fa04.png",
+    "static/media/logo.png": "/brichandbez/static/media/logo.ac2efd6d388a456f2304.png",
+    "index.html": "/brichandbez/index.html",
+    "main.c49b88c0.css.map": "/brichandbez/static/css/main.c49b88c0.css.map",
+    "main.8555bdee.js.map": "/brichandbez/static/js/main.8555bdee.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bc48c0d.css",
-    "static/js/main.eaefddfe.js"
+    "static/css/main.c49b88c0.css",
+    "static/js/main.8555bdee.js"
   ]
 }
